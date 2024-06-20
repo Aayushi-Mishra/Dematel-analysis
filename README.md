@@ -11,12 +11,19 @@ Utilizing a quantitative approach through a sample survey and employing the DEMA
 ## Steps in DEMATEL
 
 •	To gather experts’ opinion and calculate the average matrix Z.
+
 •	To calculate the normalized initial direct relation matrix D.
+
 •	To derive the total relation matrix T.
+
 •	To calculate the sums of rows and columns of matrix T.
+
 •	To set the threshold value α.
+
 •	To build a cause-and-effect relationship diagram.
+
 •	To evaluate the acceptability of the cause-and-effect diagram
+
 •	The final cause-and effect relations.
 
 Published research paper link: https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2024/58350/final/fin_irjmets1717396153.pdf
